@@ -1,0 +1,7 @@
+Package: barsikterm
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Barsik0396 <Barsik0396@outlook.com>
+Description: Терминал Барсика
+ BarsikTerm это простой, лёгкий и open-source терминал с GUI на базе Qt.
+Installed-Size: 112
